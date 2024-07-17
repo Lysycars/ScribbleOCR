@@ -1,0 +1,7 @@
+{
+  "dependencies": {
+    "@tensorflow/tfjs-tflite": "^0.0.1-alpha.10",
+    "axios": "^1.6.8",
+    "workbox-window": "^7.1.0"
+  }
+}
